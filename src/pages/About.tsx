@@ -133,18 +133,18 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                name: 'Sarah Johnson',
-                role: 'Founder & Creative Director',
+                name: 'Zeina Al Tobgy',
+                role: 'Co-founder & Design Team',
                 image: 'https://images.unsplash.com/photo-1649972904349-6e44c42644a7?w=300&h=300&fit=crop'
               },
               {
-                name: 'Emma Chen',
-                role: 'Head of Design',
+                name: 'Rawan Mohamed',
+                role: 'Co-founder & Design Team',
                 image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=300&h=300&fit=crop'
               },
               {
-                name: 'Maya Patel',
-                role: 'Sustainability Director',
+                name: 'Salaheldeen Altobgy',
+                role: 'Logistics Director',
                 image: 'https://images.unsplash.com/photo-1500673922987-e212871fec22?w=300&h=300&fit=crop'
               }
             ].map((member, index) => (
