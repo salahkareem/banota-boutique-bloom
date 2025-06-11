@@ -170,7 +170,9 @@ const Contact = () => {
               <h2 className="text-2xl font-bold text-gray-800 mb-6">Follow Us</h2>
               <div className="flex gap-4">
                 <a
-                  href="#"
+                  href="https://instagram.com/banota.eg"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="flex items-center justify-center w-12 h-12 bg-pink-100 hover:bg-pink-200 text-pink-600 rounded-xl transition-colors duration-200"
                 >
                   <Instagram className="h-6 w-6" />
